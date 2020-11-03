@@ -5,6 +5,7 @@
 	"keywords": ["marquee", "running text"],
 	"license": "MIT",
     "type": "library",
+	"minimum-stability": "stable",
     "authors": [
         {
             "name": "Arifky Nanda Prasetya",
