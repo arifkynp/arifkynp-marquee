@@ -13,6 +13,5 @@
     ],
 	"require": {
 		"php": ">=5.5"
-	},
-	"minimum-stability": "stable"
+	}
 }
