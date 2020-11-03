@@ -1,0 +1,17 @@
+{
+    "name": "arifkynp/arifkynp-marquee",
+    "description": "Simple and elegant Marquee Content",
+	"homepage": "https://github.com/arifkynp/arifkynp-marquee.git",
+	"keywords": ["marquee", "running text"],
+	"license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Arifky Nanda Prasetya",
+            "email": "arifkynp@gmail.com"
+        }
+    ],
+    "require": {
+		"php": ">=5.5"
+	}
+}
