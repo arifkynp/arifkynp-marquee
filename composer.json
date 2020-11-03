@@ -11,7 +11,7 @@
             "email": "arifkynp@gmail.com"
         }
     ],
-    "require": {
+	"require": {
 		"php": ">=5.5"
 	},
 	"minimum-stability": "stable"
